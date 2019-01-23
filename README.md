@@ -8,3 +8,8 @@ para aclarar esto hemos dividido el proyecto en MVC (MODELO, VISTA Y CONTROLADOR
 ---> MODEL: conformada por la clase archivo.py en la cual van a estar todos los metodos. esto lo hara el lider Ken Constante e Ivan Espinosa
 ---> CONTROLLER: va a comenzar las conversiones ya que se ingresa en centimetros los datos y hay que pasarlos a metros cuadrados. esto lo hara Jorge Dominguez
 --->Vista: lo creara la interfaz va ser Marco Sanabria utilizando QT5 Designer.
+
+fecha 22 de enero 2019
+
+por problemas de logistica no se podia avanzar el proyecto, pero el dia de hoy ya los colaboradores comenzaron a editar algunas parte del codigo como fue la interfaz, el controller.}
+esperemos que sigamos asi por el proyecto se ve prometedor.
