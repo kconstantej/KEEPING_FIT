@@ -516,6 +516,17 @@ class Ui_MainWindow(object):
         self.label_3.setText(_translate("MainWindow", "Ingrese su nombre:"))
         self.label_4.setText(_translate("MainWindow", "Ingrese path para cargar archivo:"))
 
+    def abrirDialogo(self):
+            self.dialogo.etiqueta.setText("Datos ingresados incorrectos")
+            self.dialog.exec_()
+
+class Dialogo(QtWidgets.QDialog):
+    def init(self):
+        QtWidgets.QDialog.init(self)
+        self.resize(290, 290)
+        self.setWindowTitle("¡¡ALERTA!!")
+        self.etiqueta = QtWidgets.QLabel(self)
+
 
 if __name__ == "__main__":
     import sys
