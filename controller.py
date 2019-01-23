@@ -13,15 +13,15 @@ class control:
     def defineEstado(self):
         e = self.peso / ((self.altura / 100) ** 2)
         print(e)
-        if e < 16.00:
+        if e < 15.00:
             self.a.delgadesSevera(self.path)
-        if e >= 16.00 and e < 18.49:
+        if e >= 15.00 and e < 19.00:
             self.a.delgadesModerada(self.path)
-        if e >= 18.50 and e < 25.00:
+        if e >= 19.00 and e < 25.00:
             self.a.pesoNormal(self.path)
-        if e >= 25.00 and e < 35.00:
+        if e >= 25.00 and e < 29.00:
             self.a.sobrepeso(self.path)
-        if e >= 35:
+        if e >= 29.00:
             self.a.obesidad(self.path)
 
 
