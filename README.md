@@ -9,12 +9,3 @@ para aclarar esto hemos dividido el proyecto en MVC (MODELO, VISTA Y CONTROLADOR
 ---> CONTROLLER: va a comenzar las conversiones ya que se ingresa en centimetros los datos y hay que pasarlos a metros cuadrados. esto lo hara Jorge Dominguez
 --->Vista: lo creara la interfaz va ser Marco Sanabria utilizando QT5 Designer.
 
-fecha 22 de enero 2019
-
-por problemas de logistica no se podia avanzar el proyecto, pero el dia de hoy ya los colaboradores comenzaron a editar algunas parte del codigo como fue la interfaz, el controller.}
-esperemos que sigamos asi por el proyecto se ve prometedor.
-
-fecha 23 de enero del 2019
-
-vamos a proponer nuevas ideas para el proyecto como es el caso de la interfaz y algunas otras dietas y ejercicios.
-realizaremos un logotipo para nuestro programa
