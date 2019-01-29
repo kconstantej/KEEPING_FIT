@@ -1,0 +1,97 @@
+<html>
+
+<head>
+<title>KEEPING FIT</title>
+
+<style>
+   
+    body{
+        background-image: url("descarga.jpg");
+        background-size:100% 100%;
+    }
+</style>
+
+</head>
+
+<body>
+
+<h1 align="center">Rutina Alimentaria Delgadez Moderada</h1>
+
+    <table align="center" border="4" bordercolor="purple"
+    cellpadding="10" cellspacing="20">
+      <tr>
+        <th>Hora</th><th>Lunes</th><th>Martes</th><th>Mi&eacute;rcoles</th>
+	<th>Jueves</th><th>Viernes</th><th>Sabado</th><th>Domingo</th>
+      </tr>
+
+<tr>
+
+<td>6:00</td>
+<td>1 vaso de café con leche + sándwich integral de queso y huevo</td>
+<td>1 vaso de leche con cacao + 1 fajita grande con pollo y queso</td>
+<td>1 vaso de jugo + omelet de 2 huevos y pollo</td>
+<td>1 vaso de café con leche + sándwich integral de queso y huevo</td>
+<td>1 vaso de leche con cacao + 1 fajita grande con pollo y queso</td>
+<td>1 vaso de jugo + omelet de 2 huevos y pollo</td>
+<td align="center" rowspan="7"> Descarga </td>
+
+</tr>
+
+<tr>
+
+<td>9:00</td>
+<td>1 fruta + 6 galletas integrales + 10 uds de almendras</td>
+<td>1 rebanada de pan con mantequilla de maní + 1 fruta</td>
+<td>1 rebanada de pan con queso + 5 nueces</td>
+<td>1 fruta + 6 galletas integrales + 10 uds de almendras</td>
+<td>1 rebanada de pan con mantequilla de maní + 1 fruta</td>
+<td>1 rebanada de pan con queso + 5 nueces</td>
+
+</tr>
+
+<tr>
+
+<td>13:30</td>
+<td>arroz + frijoles + strogonoff de pollo + ensalada + 1 naranja</td>
+<td>Pasta con atún con aceitunas y maíz + ensalada + aceite de oliva + 1 mandarina</td>
+<td>batata + frijoles + albóndigas en salsa de tomate + ensalada + 2 ruedas de piña</td>
+<td>arroz + frijoles + strogonoff de pollo + ensalada + 1 naranja</td>
+<td>Pasta con atún con aceitunas y maíz + ensalada + aceite de oliva + 1 mandarina</td>
+<td>batata + frijoles + albóndigas en salsa de tomate + ensalada + 2 ruedas de piña</td>
+
+</tr>
+
+<tr>
+
+<td>16:00</td>
+<td align="center" colspan="6">Puñado de nueces + yogurt con frutas</td>
+
+</tr>
+
+<tr>
+
+<td>19:00</td>
+<td>1 crepe con pollo y queso + 20 uds de maní</td>
+<td>yogurt con granola + 3 tostadas con queso</td>
+<td>batido de aguacate con 2 cdas de avena</td>
+<td>1 crepe con pollo y queso + 20 uds de maní</td>
+<td>yogurt con granola + 3 tostadas con queso</td>
+<td>batido de aguacate con 2 cdas de avena</td>
+
+</tr>
+
+<tr>
+
+<td>22:00</td>
+<td>arroz + frijoles + strogonoff de pollo + ensalada + 1 naranja</td>
+<td>Pasta con atún con aceitunas y maíz + ensalada + aceite de oliva + 1 mandarina</td>
+<td>batata + frijoles + albóndigas en salsa de tomate + ensalada + 2 ruedas de piña</td>
+<td>arroz + frijoles + strogonoff de pollo + ensalada + 1 naranja</td>
+<td>Pasta con atún con aceitunas y maíz + ensalada + aceite de oliva + 1 mandarina</td>
+<td>batata + frijoles + albóndigas en salsa de tomate + ensalada + 2 ruedas de piña</td>
+
+</tr>
+
+</table>
+</body>
+</html>
