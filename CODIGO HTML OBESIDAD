@@ -1,0 +1,89 @@
+<html>
+
+<head>
+<title>KEEPING FIT</title>
+
+<style>
+   
+    body{
+        background-image: url("descarga.jpg");
+        background-size:100% 100%;
+    }
+</style>
+
+</head>
+
+<body>
+
+<h1 align="center">Rutina Alimentaria Con Obesidad</h1>
+
+    <table align="center" border="4" bordercolor="purple"
+    cellpadding="10" cellspacing="20">
+      <tr>
+        <th>Hora</th><th>Lunes</th><th>Martes</th><th>Mi&eacute;rcoles</th>
+	<th>Jueves</th><th>Viernes</th><th>Sabado</th><th>Domingo</th>
+      </tr>
+
+<tr>
+
+<td>6:00</td>
+<td>Café o infusión con leche desnatada + Tostada con tomate + Pieza de fruta</td>
+<td>Leche desnatada con cereales de Pieza de fruta</td>
+<td>Café o infusión con leche desnatada + Tostada con tomate + Pieza de fruta</td>
+<td>Café con leche descremada + 1 pan tostado integral + queso con tomate</td>
+<td>Leche desnatada con cereales de desayuno sin azucarar + Pieza de fruta</td>
+<td>Café o infusión con leche desnatada + 3 galletas tipo María + Pieza de fruta</td>
+<td align="center" rowspan="7"> Descarga </td>
+
+</tr>
+
+<tr>
+
+<td>9:00</td>
+<td>1 Fruta fresca</td>
+<td>1 yogurt descremado</td>
+<td>1 gelatina light</td>
+<td>1 yogurt descremado</td>
+<td align="center" colspan="2">1 Fruta fresca</td>
+
+</tr>
+
+<tr>
+
+<td>13:30</td>
+<td>1 porcion de carne roja + 1 porcion ensalada de lechuga, tomate y zanahoria + 1 fruta fresca</td>
+<td>1 filete de pescado + porcion de verduras</td>
+<td>plato mediano de verduras cocidas + 1 fruta fresca</td>
+<td>plato mediano de rabiolis con salsa + plato pequeño de cerezas</td>
+<td>1 sopa de pollo desgrasado + ensalada de verduras + 4 cucharadas de arroz</td>
+<td>1 porcion de carne roja + 1 porcion ensalada de lechuga, tomate y zanahoria + 1 fruta fresca</td>
+
+</tr>
+
+<tr>
+
+<td>17:00</td>
+<td>1 taza de cafe con leche descremada + 2 rebanadas de pan integral + mermelada light</td>
+<td>cafe con leche + 1 rebanada de pan integral + pedaso de queso descremado</td>
+<td>cafe con leche descremada + 2 rebanada de pan integral</td>
+<td>1 cafe con leche descremada + 1 pan tostado integral + mermelada</td>
+<td>1 fruta fresca</td>
+<td>1 taza de cafe con leche descremada + 2 rebanadas de pan integral + mermelada light</td>
+
+</tr>
+
+<tr>
+
+<td>20:30</td>
+<td>1 taza de arroz con verduras</td>
+<td>plato mediano con spaguetti + tomate</td>
+<td>1 torilla de huevo con espinaca + ensalada de tomate</td>
+<td>2 rodajas de pescado blanco + ensalada de zanahoria rayada</td>
+<td>1 sopa de pollo desgrasado + gelatina</td>
+<td>1 taza de arroz con verduras</td>
+
+</tr>
+
+</table>
+</body>
+</html>
