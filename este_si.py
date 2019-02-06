@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'view.ui'
+# Form implementation generated from reading ui file 'este_si.ui'
 #
 # Created by: PyQt5 UI code generator 5.11.3
 #
@@ -420,7 +420,7 @@ class Ui_MainWindow(object):
                 pass
 
     def quienesSomos(self):
-        q="<html>\n" +"<body>\n" +"\n" +"<h1 align=\"center\" class=\"modal-title\">Quienes somos</h1>\n" +"</div>\n" +"<div class=\"modal-body\">\n" +"     <p>\n" +"        Somos unos Desarrolladores, digitales, creativos e innovadores. \n" +"        Trabajamos actuando como un departamento de marketing,<br> \n" +"        comprometiéndonos contigo, siendo proactivos, \n" +"        mejorando de forma continua y progresiva los resultados<br> de nuestros programas.\n" +"        Aplicando siempre con un enfoque creativo, esta ves<br> inovando la salud. \n" +"        No es lo que hacemos, sino cómo lo hacemos. Te estamos esperando<br>.\n" +"        Ven y descarga Keepting Fit.\n" +"      </p>\n" +"</div>\n" +"<div class=\"modal-footer\">\n" +"<button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\">Cerrar</button>\n" +"</div>\n" +"</div>\n" +"\n" +"\n" +"</body>\n" +"</html>"
+        q="<html>\n" +"<body>\n" +"\n" +"<h1 align=\"center\">\n" +"<font color=\"red\" size=\"50\" align=\"center\">\n" +"<marquee>Quienes somos</marquee>\n" +"</font>\n" +"</h1>\n" +"\n" +"<table border=\"10\" bordercolor=\"#008080\" \n" +"       align=\"center\" WIDTH=\"75%\" HEIGHT=\"50%\" style=\"font-size:40px\">\n" +"<tr>\n" +"     <td>\n" +"        Somos unos Desarrolladores, digitales, creativos e innovadores. \n" +"        Trabajamos actuando como un departamento de marketing, \n" +"        comprometiéndonos contigo, siendo proactivos, \n" +"        mejorando de forma continua y progresiva los resultados de nuestros programas.\n" +"        Aplicando siempre con un enfoque creativo, esta ves inovando la salud. \n" +"        No es lo que hacemos, sino cómo lo hacemos. Te estamos esperando.\n" +"        Ven, Unete y ya descarga Keepting Fit.\n" +"      </td>\n" +"</tr>\n" +"</table>\n" +"\n" +"\n" +"</body>\n" +"</html>"
         self.textEdit.setText(q)
 
 if __name__ == "__main__":
@@ -431,3 +431,4 @@ if __name__ == "__main__":
     ui.setupUi(MainWindow)
     MainWindow.show()
     sys.exit(app.exec_())
+
